@@ -1,0 +1,12 @@
+* { margin: 0; padding: 0; }
+
+html, body, #wrap { height: 100%; }
+body > #wrap { height: auto; min-height: 100%; }
+#main { padding-bottom: 150px; }
+
+#footer { 
+ position: relative; 
+ margin-top: -150px;
+ height: 150px;
+ clear: both; 
+}
